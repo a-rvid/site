@@ -1,3 +1,0 @@
-#+TITLE: README file for repository
-
-hello
